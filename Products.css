@@ -27,7 +27,6 @@ ul li a{
 }
 .header{
     width: 80%;
-    background-color: red;
     display: flex;
     align-items: center;
     justify-content: space-around;

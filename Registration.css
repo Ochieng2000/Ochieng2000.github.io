@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(223, 60, 223),rgb(235, 211, 211),rgb(134, 72, 72) , rgb(192, 192, 221));
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.g{
+    display: flex;
+    justify-content: right;
+    margin: 10px;
+    justify-content: space-around;
+    font-size: 30vm;
+    
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+table{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 100px;
+    border-color: rgb(64, 64, 167);
+   
+    
+    
+}
+.f{
+    background-color: black;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

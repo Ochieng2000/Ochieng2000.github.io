@@ -1,0 +1,22 @@
+.a{
+    background-image: linear-gradient(to bottom, rgb(163, 118, 33), rgb(63, 59, 59), rgb(162, 238, 162), rgb(235, 29, 63));
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    height: 650px;
+    font-size: 20px;
+    border-radius: 25%;
+    margin: auto;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+body{
+    background-color: rgb(116, 42, 177);
+}
+

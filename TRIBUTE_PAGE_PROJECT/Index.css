@@ -41,6 +41,7 @@ body{
     border-width: 5px;
     border-style: solid;
     cursor:pointer;
+    padding: 1.5rem;
     }
 figcaption{
     display: flex;

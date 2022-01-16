@@ -17,6 +17,7 @@ body{
     justify-content: center;
     font-size: 2.0em;
     font-weight: 700;
+    padding: 1.5rem;
 }
 #title-caption{
     display: flex;    
@@ -41,8 +42,7 @@ body{
     border-width: 5px;
     border-style: solid;
     cursor:pointer;
-    padding: 1.5rem;
-    }
+       }
 figcaption{
     display: flex;
     text-align: center;    
